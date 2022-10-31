@@ -8,6 +8,8 @@ logs
 *.log
 npm-debug.log*
 
+/vendor
+
 # Runtime data
 pids
 *.pid
